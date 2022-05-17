@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\steve.collyer\\source\\repos\\Qa_Interview\\Qa_Interview.csproj": {}
+    "C:\\Source\\QA_Interview\\Qa_Interview.csproj": {}
   },
   "projects": {
-    "C:\\Users\\steve.collyer\\source\\repos\\Qa_Interview\\Qa_Interview.csproj": {
+    "C:\\Source\\QA_Interview\\Qa_Interview.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steve.collyer\\source\\repos\\Qa_Interview\\Qa_Interview.csproj",
+        "projectUniqueName": "C:\\Source\\QA_Interview\\Qa_Interview.csproj",
         "projectName": "Qa_Interview",
-        "projectPath": "C:\\Users\\steve.collyer\\source\\repos\\Qa_Interview\\Qa_Interview.csproj",
-        "packagesPath": "C:\\Users\\steve.collyer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steve.collyer\\source\\repos\\Qa_Interview\\obj\\",
+        "projectPath": "C:\\Source\\QA_Interview\\Qa_Interview.csproj",
+        "packagesPath": "C:\\Users\\mark.williams\\.nuget\\packages\\",
+        "outputPath": "C:\\Source\\QA_Interview\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\steve.collyer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mark.williams\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
         }
       }
     }
