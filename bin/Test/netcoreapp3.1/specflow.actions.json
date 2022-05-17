@@ -1,0 +1,10 @@
+﻿{
+  "selenium": {
+    "browser": "chrome",
+    "arguments": [
+      "--start-maximized"
+    ],
+    "defaultTimeout": 45,
+    "pollingInterval": 1
+  }
+}
